@@ -20,5 +20,4 @@ This project analyzes the sentiment of Twitter posts related to mental health us
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `nltk`, `sklearn`, `TextBlob`
 
-t
 
